@@ -13,3 +13,10 @@ Structure:
 One output node: Jump or no Jump
 Four input nodes: X position, y position, position of top pipe and position of bottom pipe
 
+Reference and NEAT Documention:
+
+Stanley's paper
+http://www.cs.ucf.edu/~kstanley/#publications
+
+NEAT Documentation
+https://neat-python.readthedocs.io/en/latest/neat_overview.html
